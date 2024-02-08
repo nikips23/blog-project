@@ -1,0 +1,311 @@
+/*h2{
+    text-align: center;
+    text-decoration: double underline;
+    line-height: 2.5;
+}
+h4{
+    text-decoration: line-through;
+}
+h5{
+    text-decoration:  red overline;
+}
+h1 
+{
+    font-family: league spartan;
+    color:#ffa511;
+    text-align: center;
+    font-size: 55px;
+    font-weight: 900;
+    letter-spacing: 2px;
+    line-height: 1.5;
+    text-transform: uppercase;
+    text-decoration: rgb(249, 0, 0) underline;
+}
+button{
+    color:white;
+    background-color: rgb(17, 96, 232);
+    height: 40px;
+    width: 80px;
+    font-size: larger;
+    margin-left: 100px;
+}
+button:hover
+{
+    background-color: aqua;
+}
+p:active
+{
+    font-weight: bold;
+}
+*{
+    font-family: Courier New;
+}
+h1{
+    color: #1b74e4;
+}
+button{
+    background-color: black;
+    color: white;
+}
+.btn{
+    background-color: aqua;
+    color: black;
+}*/
+/*
+h1{
+    border-width: 2px;
+    border-color: black;
+    border-style: double;
+    text-align: center;
+    color: blue;
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: rgb(248, 177, 116);
+    border-radius: 10px;
+    text-transform: uppercase;
+}
+div{
+    text-align: justify;
+    padding: 20px;
+    height: 100px;
+    border-width: 2px;
+    border-style: dashed;
+    border-color: brown;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: rgb(244, 204, 235);
+    border-radius: 10px;
+    font-size: larger;
+    
+}
+button{
+    width: 80px;
+    height: 40px;
+    background-color: rgb(28, 66, 220);
+    color: white;
+    border-radius: 20px;
+    font-size: 15px;
+}
+button:hover
+{
+    background-color: rgb(136, 239, 192);
+    color: black;
+}
+h1:hover{
+    color:black;
+    background-color: rgb(243, 149, 149);
+}
+h1::first-letter
+{
+    color: brown;
+}
+div::first-line
+{
+    color: rgb(249, 4, 20);
+}*/
+/*.box
+{
+    height: 200px;
+    width: 70px;
+    border: 2px solid black;
+}
+.signal
+{
+    height: 50px;
+    width: 50px;
+    border: 2px solid black;
+    margin: 10px;
+    border-radius: 50%;
+}
+#red
+{
+    background-color: red;
+}
+#yellow
+{
+    background-color: yellow;
+}
+#green
+{
+    background-color: green;
+}*/
+/*div{
+    height: 200px;
+    width: 200px;
+    background-color: aquamarine;
+}
+div:hover{
+    background-color: brown;
+    border-radius: 100%;
+    transition: 2s;*/
+/*.a{
+    background-image: url("download.jpg");
+    background-size: cover;
+    transform: rotate(45deg);
+}
+.b{
+    background-image: url("download\ \(1\).jpg");
+    background-size: cover;
+    transform: rotate(45deg);
+}
+.c{
+    background-image: url("download\ \(2\).jpg");
+    background-size: cover;
+    transform: rotate(45deg);
+}
+.d{
+    background-image: url("images.jpg");
+    background-size: cover;
+    transform: rotate(45deg);
+}
+.e{
+    background-image: url("images\ \(1\).jpg");
+    background-size: cover;
+    transform: rotate(45deg);  
+}
+div{
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+    margin-top: 50px;
+    transition: 2s;
+    box-shadow: 2px 2px 15px rgb(39, 38, 38);
+    border-radius: 20px;
+    
+}
+.a:hover{
+    transform: rotate(90deg);
+}
+.b:hover{
+    transform: translateX(50px);
+    margin-top: 100px;
+}
+.c:hover{
+    transform: rotate(-45deg);
+}
+.d:hover{
+    transform: translateX(100px);
+}
+.e:hover{
+    transform: translateY(90px);
+}
+h1{
+    color: brown;
+    margin-top: 150px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    box-shadow: 2px 2px 10px gray;
+    height: 90px;
+    padding-top: 50px;
+}*/
+
+/*.card{
+    width: 300px;
+    height: 300px;
+    margin:20px;
+    border-radius:5px;
+    display: inline-block;
+    border: 2px solid black;
+    box-shadow: 0 2PX 10PX black;
+}
+img{
+    width:100%;
+
+}
+.desc{
+    padding: 0 2PX 0 2PX;
+}
+.card:hover{
+    box-shadow: 0 8px 20px black;
+    transition: 2s;
+}*/
+
+/*.square{
+    width: 200px;
+    height: 200px;
+    background-color:white;
+}
+.b-circle{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-color: orange;
+}
+.circle{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    display: inline-block;
+    background-color: black;
+    margin-top: 50px;
+    margin-left: 44px;
+}
+.smile{
+    width: 100px;
+    height:30px;
+    background-color: brown;
+    margin-left: 45px;
+    margin-top: 40px;
+    border-radius: 0 0 15px 15px;
+}*/
+
+/*.box{
+    width: 300px;
+    height: 300px;
+    margin-left: 50px;
+    border-radius: 20px;
+    box-shadow: 2px 4px 20px black;
+    text-align: center;
+    font-size: 1.5rem;
+    background-image:url("download.jpg");
+    background-size: cover;
+    animation-name: imageAnimate;
+    animation-duration: 1s;
+    animation-timing-function: ease-out;
+    animation-delay: 0;
+    animation-iteration-count:infinite;
+    animation-direction: normal;
+
+}
+@keyframes fontanimation
+{
+    from{
+        font-size: 20px;
+    }
+    to{
+        font-size: 40px;
+    }
+}
+
+@keyframes imageAnimate{
+    from{
+        background-image: url("download\ \(1\).jpg");
+    }
+    to{
+        background-image: url("download\ \(2\).jpg");
+    }
+}*/
+.container{
+    display: flex;
+    justify-content: space-evenly;
+}
+.card{
+    width: 400px;
+    border: 2px solid black;
+    border-radius: 20px;
+    display: inline-block;
+    margin: 10px;
+    padding: 10px;
+}
+img{
+    width: 100%;
+    border-radius:20px;
+    
+}
+i{
+    color: rgb(205, 63, 63);
+}
+span{
+    color: rgb(167, 36, 36);
+}
+

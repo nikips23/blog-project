@@ -1,0 +1,29 @@
+.container{
+    width: 300px;
+    height: 450px;
+    border: 2px solid black;
+    box-shadow: 2px 2px 10px gray;
+    margin: 100px;
+}
+img{
+    width: 300px;
+}
+.heading2{
+    height: 10px;
+}
+.card h1{
+    top: 50%;
+}
+.card{
+    height: 200px;
+}
+.row{
+    margin-top: 50px;
+    width: 400px;
+    height: 200px;
+    display: flex;
+}
+.img-wheather{
+    height: 100px;
+    width: 100px;
+}

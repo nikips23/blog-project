@@ -1,0 +1,48 @@
+
+h1{
+    text-align: center;
+    color: brown;
+}
+h1::first-letter{
+    color: rgb(14, 134, 232);
+}
+div{
+    margin-left: 100px;
+    padding-top: 100px;
+    text-align:center;
+    border: 2px solid black;
+    width: 80%;
+    height: 370px;
+    font-size: 30px;
+    border-radius: 20px;
+    background-image: url("images\ \(1\).jpg");
+    background-size: cover;
+    box-shadow: 2px 2px 30px black;
+}
+div input{
+    font-size: 1.1rem;
+    height: 35px;
+    width: 200px;
+    border-radius: 20px;
+    padding: 10px;
+    border-color: rgb(15, 144, 237);
+    box-shadow: 2px 2px 20px black;
+}
+button{
+    height: 40px;
+    width: 90px;
+    margin: 30px;
+    background-color: rgb(45, 87, 237);
+    color: aliceblue;
+    font-size: 1.1rem;
+    transition: 1s;
+    border-radius: 20px;
+
+}
+button:hover{
+    box-shadow: 2px 4px 20px black;
+    background-color: blue;  
+}
+div:hover{
+    background-image: url("download\ \(2\).jpg");
+}
